@@ -1,7 +1,4 @@
-@font-face {
-    font-family: "epaomayek";
-    src: url("EPAOMAYEK.ttf") ;
-}
+
 .first{
     display: flex;
     padding-left: 6%;
@@ -20,7 +17,18 @@
     
 }
 .notice{
-    width: 40%;
+    width: 50%;
+    max-width :500px;; 
+    border-radius: 60px;
+    box-shadow: inset;
+    height:fit-content;
+    background-color: white;
+    padding: 50px;
+    
+
+
+
+
 }
 .second3{
     display: flex;
